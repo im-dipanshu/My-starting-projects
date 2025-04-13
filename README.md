@@ -1,2 +1,2 @@
-# Angela-Yu-Course
-A udemy course projects
+# My-starting-projects
+A simple project
