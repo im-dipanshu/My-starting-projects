@@ -1,2 +1,2 @@
 # My-starting-projects
-A simple project
+A very simple project
